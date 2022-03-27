@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fea752cf-ab50-6c42-7a14-03fade11d0a5
 resourcetype: Document
 title: lec5_steep_desce.pdf
 uid: 9c07ac34-609f-36bb-1596-7a35a4e77a7b

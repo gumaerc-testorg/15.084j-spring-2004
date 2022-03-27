@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c4d479ec-ce48-2f05-2620-2476b005ecde
 resourcetype: Document
 title: midterm_1998.pdf
 uid: a87568b4-67e2-0a6c-a026-ed944bce8eb9

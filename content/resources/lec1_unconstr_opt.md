@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fea752cf-ab50-6c42-7a14-03fade11d0a5
 resourcetype: Document
 title: lec1_unconstr_opt.pdf
 uid: f8e5bd09-d99c-c296-e0f5-af25bf607e49

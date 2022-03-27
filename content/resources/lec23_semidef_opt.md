@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fea752cf-ab50-6c42-7a14-03fade11d0a5
 resourcetype: Document
 title: lec23_semidef_opt.pdf
 uid: a632b565-602f-d2eb-3be5-74c537eea095

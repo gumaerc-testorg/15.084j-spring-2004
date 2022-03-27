@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fea752cf-ab50-6c42-7a14-03fade11d0a5
 resourcetype: Document
 title: lec9_project_mthd.pdf
 uid: ffab929b-622a-6b42-4a9f-592002d99be4

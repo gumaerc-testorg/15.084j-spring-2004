@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/21073fc1bb9e5f68b3319be
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec6_constr_opt.pdf
 uid: 21073fc1-bb9e-5f68-b331-9bec0895683f
 ---
 Notes for Lecture 6.
-

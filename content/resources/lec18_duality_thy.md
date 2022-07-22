@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/ac15ee761a195e0fa56df10
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec18_duality_thy.pdf
 uid: ac15ee76-1a19-5e0f-a56d-f107942f6373
 ---
 Notes for Lecture 18.
-

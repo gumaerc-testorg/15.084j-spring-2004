@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/8a2f7cda0c6c448c17e8a82
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec4_quad_form.pdf
 uid: 8a2f7cda-0c6c-448c-17e8-a8272697f55c
 ---
 Notes for Lecture 4.
-

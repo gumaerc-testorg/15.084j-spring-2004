@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/b915e35e319f669d080059f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec14_int_pt_mthd.pdf
 uid: b915e35e-319f-669d-0800-59f216f20cd0
 ---
 Notes for Lecture 14.
-

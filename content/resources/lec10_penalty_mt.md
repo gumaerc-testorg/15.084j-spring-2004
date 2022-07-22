@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/13b4c46d590cf3df94475e0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec10_penalty_mt.pdf
 uid: 13b4c46d-590c-f3df-9447-5e0ae1a815c3
 ---
 Notes for Lecture 10.
-

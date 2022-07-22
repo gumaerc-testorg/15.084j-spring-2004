@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/4eb6cc4c457a78df8e2cb1f
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec5.pdf
 uid: 4eb6cc4c-457a-78df-8e2c-b1f4b825f14e
 ---
 This handout contains a review of topics and problems covered in class.
-

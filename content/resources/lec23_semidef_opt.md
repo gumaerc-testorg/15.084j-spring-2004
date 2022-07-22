@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/a632b565602fd2eb3be574c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec23_semidef_opt.pdf
 uid: a632b565-602f-d2eb-3be5-74c537eea095
 ---
 Notes for Lecture 23.
-

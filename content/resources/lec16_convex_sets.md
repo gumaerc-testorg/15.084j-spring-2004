@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/af8570326db1f00938bcbd3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec16_convex_sets.pdf
 uid: af857032-6db1-f009-38bc-bd3ee66f0433
 ---
 Notes for Lecture 16.
-

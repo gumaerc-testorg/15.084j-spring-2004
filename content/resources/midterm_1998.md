@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/a87568b467e20a6ca026ed9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_1998.pdf
 uid: a87568b4-67e2-0a6c-a026-ed944bce8eb9
 ---
 Midterm exam questions.
-

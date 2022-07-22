@@ -5,6 +5,7 @@ file: /courses/15-084j-nonlinear-programming-spring-2004/ffab929b622a6b424a9f592
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec9_project_mthd.pdf
 uid: ffab929b-622a-6b42-4a9f-592002d99be4
 ---
 Notes for Lecture 9.
-

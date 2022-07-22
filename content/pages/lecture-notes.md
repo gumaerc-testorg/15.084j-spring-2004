@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: fea752cf-ab50-6c42-7a14-03fade11d0a5
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Unconstrained Optimization Optimality Conditions ([PDF]({{< baseurl >}}/resources/lec1_unconstr_opt))
+Unconstrained Optimization Optimality Conditions ({{% resource_link f8e5bd09-d99c-c296-e0f5-af25bf607e49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Convex Unconstrained Optimization Optimality Conditions
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Newton's Method ([PDF]({{< baseurl >}}/resources/lec3_newton_mthd))
+Newton's Method ({{% resource_link 83159d56-de04-a7e7-dc94-d0348fa4ccda "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Newton's Method ([PDF]({{< baseurl >}}/resources/lec3_newton_mthd))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Quadratic Forms ([PDF]({{< baseurl >}}/resources/lec4_quad_form))
+Quadratic Forms ({{% resource_link 8a2f7cda-0c6c-448c-17e8-a8272697f55c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Quadratic Forms ([PDF]({{< baseurl >}}/resources/lec4_quad_form))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Steepest Descent Method ([PDF - 2.2 MB]({{< baseurl >}}/resources/lec5_steep_desce))
+Steepest Descent Method ({{% resource_link 9c07ac34-609f-36bb-1596-7a35a4e77a7b "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Steepest Descent Method ([PDF - 2.2 MB]({{< baseurl >}}/resources/lec5_steep_des
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Constrained Optimization Optimality Conditions I ([PDF]({{< baseurl >}}/resources/lec6_constr_opt))
+Constrained Optimization Optimality Conditions I ({{% resource_link 21073fc1-bb9e-5f68-b331-9bec0895683f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ Constrained Optimization Optimality Conditions III
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Projection Methods for Equality Constrained Problems ([PDF]({{< baseurl >}}/resources/lec9_project_mthd))
+Projection Methods for Equality Constrained Problems ({{% resource_link ffab929b-622a-6b42-4a9f-592002d99be4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ Projection Methods for Equality Constrained Problems ([PDF]({{< baseurl >}}/reso
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Projection Methods/Penalty Methods ([PDF]({{< baseurl >}}/resources/lec10_penalty_mt))
+Projection Methods/Penalty Methods ({{% resource_link 13b4c46d-590c-f3df-9447-5e0ae1a815c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +125,7 @@ Penalty Methods
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Barrier Methods, Conditional Gradient Method ([PDF]({{< baseurl >}}/resources/lec12_barrier_mt))
+Barrier Methods, Conditional Gradient Method ({{% resource_link 8d9c756a-3d42-b0c1-5256-645a500aafa1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +143,7 @@ Midterm Exam
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Interior-Point Methods for Linear Optimization I ([PDF]({{< baseurl >}}/resources/lec14_int_pt_mthd))
+Interior-Point Methods for Linear Optimization I ({{% resource_link b915e35e-319f-669d-0800-59f216f20cd0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +161,7 @@ Interior-Point Methods for Linear Optimization II
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of Convex Sets ([PDF]({{< baseurl >}}/resources/lec16_convex_sets))
+Analysis of Convex Sets ({{% resource_link af857032-6db1-f009-38bc-bd3ee66f0433 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +179,7 @@ Analysis of Convex Functions
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Duality Theory I ([PDF]({{< baseurl >}}/resources/lec18_duality_thy))
+Duality Theory I ({{% resource_link ac15ee76-1a19-5e0f-a56d-f107942f6373 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Duality Theory III
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Duality Theory IV ([PDF]({{< baseurl >}}/resources/lec21_hw_probs))
+Duality Theory IV ({{% resource_link 96b1f09c-62eb-0852-116b-f0b7a7a190ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +215,7 @@ Duality Theory IV ([PDF]({{< baseurl >}}/resources/lec21_hw_probs))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Generalized Programming and Subgradient Optimization ([PDF]({{< baseurl >}}/resources/lec22_gen_prgm_o))
+Generalized Programming and Subgradient Optimization ({{% resource_link 1e6f5864-7ae0-1450-c248-71dff1dc5095 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +224,7 @@ Generalized Programming and Subgradient Optimization ([PDF]({{< baseurl >}}/reso
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Semidefinite Optimization I ([PDF]({{< baseurl >}}/resources/lec23_semidef_opt))
+Semidefinite Optimization I ({{% resource_link a632b565-602f-d2eb-3be5-74c537eea095 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

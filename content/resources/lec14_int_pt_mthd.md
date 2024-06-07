@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes for Lecture 14.
 file: /courses/15-084j-nonlinear-programming-spring-2004/b915e35e319f669d080059f216f20cd0_lec14_int_pt_mthd.pdf
+file_size: 254215
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

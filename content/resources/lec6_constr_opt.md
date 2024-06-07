@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes for Lecture 6.
 file: /courses/15-084j-nonlinear-programming-spring-2004/21073fc1bb9e5f68b3319bec0895683f_lec6_constr_opt.pdf
+file_size: 288006
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

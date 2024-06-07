@@ -2,6 +2,7 @@
 content_type: resource
 description: Midterm exam questions.
 file: /courses/15-084j-nonlinear-programming-spring-2004/a87568b467e20a6ca026ed944bce8eb9_midterm_1998.pdf
+file_size: 56847
 file_type: application/pdf
 learning_resource_types:
 - Exams

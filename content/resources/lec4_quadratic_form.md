@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-084j-nonlinear-programming-spring-2004/7eee0799d063efce1624892a2dd13452_lec4_quadratic_form.pdf
+file_size: 158882
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

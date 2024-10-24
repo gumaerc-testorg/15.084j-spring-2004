@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes for Lecture 18.
-file: /courses/15-084j-nonlinear-programming-spring-2004/ac15ee761a195e0fa56df107942f6373_lec18_duality_thy.pdf
+file: /ol-ocw-studio-app/courses/15-084j-nonlinear-programming-spring-2004/ac15ee761a195e0fa56df107942f6373_lec18_duality_thy.pdf
 file_size: 387274
 file_type: application/pdf
 learning_resource_types:

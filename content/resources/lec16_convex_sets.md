@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes for Lecture 16.
-file: /courses/15-084j-nonlinear-programming-spring-2004/af8570326db1f00938bcbd3ee66f0433_lec16_convex_sets.pdf
+file: /ol-ocw-studio-app/courses/15-084j-nonlinear-programming-spring-2004/af8570326db1f00938bcbd3ee66f0433_lec16_convex_sets.pdf
 file_size: 226528
 file_type: application/pdf
 learning_resource_types:

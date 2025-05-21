@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/15-084j-nonlinear-programming-spring-2004/96b1f09c62eb0852116bf0b7a7a190ce_lec21_hw_probs.pdf
+file: /courses/15-084j-nonlinear-programming-spring-2004/96b1f09c62eb0852116bf0b7a7a190ce_lec21_hw_probs.pdf
 file_size: 93686
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing a review of the topics covered in the first week of
   the course.
-file: /courses/15-084j-nonlinear-programming-spring-2004/752ad19d78b3b9a4557190700d163fe2_rec1.pdf
+file: /ol-ocw-studio-app/courses/15-084j-nonlinear-programming-spring-2004/752ad19d78b3b9a4557190700d163fe2_rec1.pdf
 file_size: 80153
 file_type: application/pdf
 learning_resource_types:

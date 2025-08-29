@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes for Lecture 5.
-file: /courses/15-084j-nonlinear-programming-spring-2004/9c07ac34609f36bb15967a35a4e77a7b_lec5_steep_desce.pdf
+file: /ol-ocw-studio-app/courses/15-084j-nonlinear-programming-spring-2004/9c07ac34609f36bb15967a35a4e77a7b_lec5_steep_desce.pdf
 file_size: 2304187
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes for Lecture 10.
-file: /courses/15-084j-nonlinear-programming-spring-2004/13b4c46d590cf3df94475e0ae1a815c3_lec10_penalty_mt.pdf
+file: /ol-ocw-studio-app/courses/15-084j-nonlinear-programming-spring-2004/13b4c46d590cf3df94475e0ae1a815c3_lec10_penalty_mt.pdf
 file_size: 196038
 file_type: application/pdf
 learning_resource_types:
